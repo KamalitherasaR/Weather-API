@@ -26,23 +26,18 @@ A simple and responsive Weather Application built using **HTML, CSS, and JavaScr
 
 ## 📸 Screenshot
 
-Add your application screenshot to the repository and update the image path below.
-
-```md
 ![Weather App Screenshot](images/weather-app.png)
-```
 
 ## 📂 Project Structure
 
 ```text
 Weather-API/
-│
 ├── index.html
 ├── style.css
 ├── script.js
+├── images/
+│   └── weather-app.png
 └── README.md
-├── images
-    ├── weather-app.png
 ```
 
 ## ⚙️ How to Run Locally
